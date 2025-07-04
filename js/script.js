@@ -19,3 +19,8 @@ if(emailCheck === false) {
 
 console.log(`---gioco dei dadi---`)
 
+const userDice = Math.floor(Math.random() * 6) + 1;
+console.log(userDice)
+
+const cpuDice = Math.floor(Math.random() * 6) + 1;
+console.log(cpuDice)
