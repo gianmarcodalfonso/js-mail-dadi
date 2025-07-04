@@ -10,3 +10,7 @@ for(let i = 0; i < invitedList.length; i++){
     console.log(`Presente tra gli invitati`)
   }
 }
+
+if(emailCheck === false) {
+  console.log(`Non presente tra gli invitati`)
+}
