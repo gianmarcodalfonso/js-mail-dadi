@@ -29,6 +29,10 @@ if(userDice > cpuDice) {
   console.log(`Hai vinto`)
 }
 
-if(userDice < cpuDice) {
+else if(userDice < cpuDice) {
   console.log(`Hai perso`)
+}
+
+else {
+  console.log(`Pareggio`)
 }
