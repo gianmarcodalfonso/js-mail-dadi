@@ -30,4 +30,11 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 # gioco invitati
 
+1-array invited
+2-check useremail
+3-check output
+
 # gioco dei dadi
+
+1-dice output\*2
+2-check winner
