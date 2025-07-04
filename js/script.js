@@ -24,3 +24,7 @@ console.log(userDice)
 
 const cpuDice = Math.floor(Math.random() * 6) + 1;
 console.log(cpuDice)
+
+if(userDice > cpuDice) {
+  console.log(`Hai vinto`)
+}
